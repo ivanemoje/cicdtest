@@ -1,0 +1,8 @@
+- Add async processing
+- Change authentication to oauth
+- save results to db
+- change load to pick ubuntu 
+- change models to load at startup
+- add tests
+- add/deploy pipeline
+- add uploadfile to model

@@ -1,0 +1,25 @@
+# Editors
+.idea
+__pycache__/
+.DS_STORE
+
+# Env
+.env
+
+# Python
+**/__pycache__
+
+# Local notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data
+**/data
+
+# Zip
+.tgz
+
+# Virtual environment
+/myenv
+
+# Workspace
+.code-workspace
